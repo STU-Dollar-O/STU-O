@@ -1,2 +1,2 @@
-# STU-O
-STU$O
+# STU$O
+Für viele Studenten ist es möglich finanzielle Unterstützung zu bekommen. Dies muss jedoch sehr kompliziert eingereicht und geprüft werden hinsichtlich Qualifizierung durch Limit an Einkommen etc. Hierfür kommt unsere App ins Spiel, in welcher man nicht nur immer einfach erklärt aktuelle Information bekommt, sondern auch eine Auswertung die man ausfüllen kann um zu überprüfen, ob man für ein in Österreich beheimatetes Unterstützungsprogramm qualifiziert wäre. Wenn ja werden alle einzureichenden Dokumente einfach erklärt und beschrieben sowie übersetzt für nicht deutschsprachige Kollegen. Darüber hinaus planen wir ein Konzept in welchem man verknüpft mit Finanzonline ist und somit direkt einreichen kann ohne einem Umweg. (Sofern eine Handy Signatur vorliegt) Alles in allem eine App für jeden Studenten ohne Finanzwissen eines BWLers im 4.Semeseter.
